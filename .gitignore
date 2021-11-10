@@ -1,0 +1,2 @@
+# Project exclude paths
+/employee-management-webapp-main/${project.build.directory}/classes/
